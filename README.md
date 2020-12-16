@@ -1,6 +1,14 @@
 # ratethespace
 
-Rate spaces to work, eat, socialise, meet and discuss. What type of services the spaces have? How quiet? Most importantly, how's the wifi? (in terms of speed) Is there enough room for a small team to meet? Enough plug points?
+Rate spaces to work, eat, socialise, meet and discuss. 
+
+What type of services the spaces have? 
+
+How quiet? Most importantly, how's the wifi? (in terms of speed) 
+
+Is there enough room for a small team to meet? 
+
+Enough plug points?
 
 This can be a global site for anyone around the world working from home, and would like to get out the home and find a place to work or have a quick meeting. or, if you are a digital nomad and move around a lot you can find a spot to catchup on your emails.
 
@@ -12,7 +20,11 @@ If a person adds a space it needs to be verified by the business. so when adding
 
 # Technologies
 :TODO
+
 Options --- 
+
 FrontEnd : Vuejs (Easy to use)
+
 ServerSide : dotnetCore || Node 
+
 Database : Firebase || SQL

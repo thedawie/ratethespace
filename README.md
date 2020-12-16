@@ -28,3 +28,7 @@ FrontEnd : Vuejs (Easy to use)
 ServerSide : dotnetCore || Node 
 
 Database : Firebase || SQL
+
+Build Pipeline : ??
+
+Release/Deploy Pipeline : ??
